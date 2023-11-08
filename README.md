@@ -1,6 +1,6 @@
 # Project_Calculator_V2
 
-<p>Projeto Calculadora V2 modificada utilizando HTML, CSS e Javascript</p>
+<p>Modified Calculator Project V2 using HTML, CSS, and JavaScript</p>
 
 # Readme Contents:
 
@@ -21,7 +21,7 @@
 
 ### about
 
-<p>Nesse projeto foi uma versao modificada do project_Calculator_V1, utilizei uma função chamada <b>Desfoque de fundo (glassmorphism)</b>com esse efeito consegui criar um layout incrivel para esse projeto, utilizei javascript para calcular o valor dos numeros.</p>
+<p>This project is a modified version of Project_Calculator_V1. I used a function called <b>Background Blur (glassmorphism)</b>, which allowed me to create an amazing layout for this project. I used JavaScript to calculate the numbers' values.</p>
 
 ### preview
 
@@ -59,14 +59,14 @@
 ### designed
 
 - Calculator_V1;
-- HTML Semantico;
-- Código Javascript Simples;
-- Prioridades CSS
+- Semantic HTML;
+- Simple JavaScript Code;
+- CSS Priorities
 
 ### learned
 
-🟢 Update Calculator V1 <br>
-🟢 Glassmorphin effect <br>
+🟢 Updated Calculator V1 <br>
+🟢 Glassmorphism Effect <br>
 
 ## autor
 
