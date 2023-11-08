@@ -50,7 +50,7 @@
 ### js
 
 <p>Code Js</p>
-<img align="center" src="assets/js/script.js" width="900px"/>
+<img align="center" src="Calc_images_V2/Js.png" width="900px"/>
 
 <br>
 
