@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="shortcut icon" href="./assets/images/favicon_calculator.ico" type="favicon_calculator">
+    <title>Calculator V2</title>
+</head>
+<body>
+    <div class="bubbles">
+        <span class="one"></span>
+        <span class="two"></span>
+        <span class="three"></span>
+        <span class="four"></span>
+        <span class="five"></span>
+        <span class="six"></span>
+        <span class="seven"></span>
+    </div>
+
+    <div class="bubbles">
+        <span class="one"></span>
+        <span class="two"></span>
+        <span class="three"></span>
+        <span class="four"></span>
+        <span class="five"></span>
+        <span class="six"></span>
+        <span class="seven"></span>
+    </div>
+
+    <div class="bubbles">
+        <span class="one"></span>
+        <span class="two"></span>
+        <span class="three"></span>
+        <span class="four"></span>
+        <span class="five"></span>
+        <span class="six"></span>
+        <span class="seven"></span>
+    </div>
+
+    <div class="bubbles">
+        <span class="one"></span>
+        <span class="two"></span>
+        <span class="three"></span>
+        <span class="four"></span>
+        <span class="five"></span>
+        <span class="six"></span>
+        <span class="seven"></span>
+    </div>
+
+    <div class="container">
+        <form action="#" name="forms">
+            <input type="text" name="answer" />
+            <div class="buttons">
+                <input type="button" value="Limpar" onclick="clearInput()">
+                <input type="button" value="%" onclick="appendToInput('%')">
+                <input type="button" value="/" onclick="appendToInput('/')">
+                <input type="button" value="Deletar" onclick="deleteLastCharacter()">
+            </div>
+            <div class="buttons">
+                <input type="button" value="7" onclick="appendToInput('7')">
+                <input type="button" value="8" onclick="appendToInput('8')">
+                <input type="button" value="9" onclick="appendToInput('9')">
+                <input type="button" value="*" onclick="appendToInput('*')">
+            </div>
+            <div class="buttons">
+                <input type="button" value="4" onclick="appendToInput('4')">
+                <input type="button" value="5" onclick="appendToInput('5')">
+                <input type="button" value="6" onclick="appendToInput('6')">
+                <input type="button" value="-" onclick="appendToInput('-')">
+            </div>
+            <div class="buttons">
+                <input type="button" value="1" onclick="appendToInput('1')">
+                <input type="button" value="2" onclick="appendToInput('2')">
+                <input type="button" value="3" onclick="appendToInput('3')">
+                <input type="button" value="+" onclick="appendToInput('+')">
+            </div>
+            <div class="buttons">
+                <input type="button" value="0" onclick="appendToInput('0')">
+                <input type="button" value="00" onclick="appendToInput('00')">
+                <input type="button" value="." onclick="appendToInput('.')">
+                <input type="button" value="=" onclick="calculateResult( )">
+            </div>
+        </form>
+    </div>    
+    </div>
+        </form>
+    </div>
+
+<script src="./assets/js/script.js"></script>
+</body>
+</html>
